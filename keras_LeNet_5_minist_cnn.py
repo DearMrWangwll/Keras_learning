@@ -1,3 +1,5 @@
+# 使用Keras构建LeNet5模型，对数据集mnist进行train和test
+
 from __future__ import print_function
 from keras.layers import Conv2D,MaxPooling2D
 from keras.layers import Dense,Dropout,Flatten
