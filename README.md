@@ -24,4 +24,4 @@ CNN是一种自动化提取特征的机器学习模型。首先我们介绍CNN�
 
 而池化目的主要就是为了减少权重参数，但为什么可以以Maxpooling或者MeanPooling代表这个区域的特征呢？这样不会有可能损失了一些重要特征吗？这是因为图像数据在连续区域具有相关性，一般局部区域的像素值差别不大。比如眼睛的局部区域的像素点的值差别并不大，故我们使用Maxpooling或者MeanPooling并不会损失很多特征。
 
-详见：http://keraschina.com/keras_cnn/
+图片、项目实例等详见：http://keraschina.com/keras_cnn/
