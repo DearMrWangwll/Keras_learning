@@ -1,3 +1,5 @@
+# 用Keras做一个手写数字识别的CNN架构
+
 from __future__ import print_function
 import keras
 from keras.datasets import mnist
